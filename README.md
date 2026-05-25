@@ -15,7 +15,9 @@ This project simulates a real-world multi-branch enterprise network with:
 The topology consists of two enterprise branches connected securely over the public internet.
 
 ---
-
+# Topology
+ ![topology](topology/Network-design.png)
+---
 # Network Architecture
 
 ## Branch 1
